@@ -1,0 +1,16 @@
+{
+    "alert_id": "SOC-7A9BD574",
+    "alert_type": "Suspicious Network Volume",
+    "indicator_type": "ip",
+    "indicator_value": "192.168.1.3",
+    "source_host": "Unknown",
+    "destination_host": "Internal-server",
+    "destination_ip": "192.168.1.16",
+    "protocol": "ICMP",
+    "evidence": {
+        "packet_count": 45,
+        "time_window_seconds": 100,
+        "data_source": "traffic.pcap"
+    },
+    "analyst_question": "Is this expected activity or suspicious scanning/noise?"
+}
