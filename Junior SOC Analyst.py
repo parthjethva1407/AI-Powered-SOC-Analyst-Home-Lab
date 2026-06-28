@@ -19,8 +19,8 @@ CSV_FILE = "traffic.csv"
 ALERT_FILE = "alert.json"
 
 # ---- Airia Webhook Details ----
-AIRIA_API_URL = "https://api.airia.ai/v2/PipelineExecution/7fdb1cb9-33bc-4b28-80eb-8c9ea0fab552"
-AIRIA_API_KEY = "ak-ODk4NDYzMjc3fDE3ODI2MjcxMDE1NjB8dGktVkdWemRDQkRiMjF3WVc1NUxVOXdaVzRnVW1WbmFYTjBjbUYwYVc5dUxVRnBjbWxoSUVaeVpXVmZZbUptTldJeU5EY3ROR1k1WmkwME9HUXpMVGhrTkRJdE1qZzNORE13T1dSaVpESm18MXwzMDM4ODI4NTQ4"
+AIRIA_API_URL = "INPUT_YOUR_API_URL"
+AIRIA_API_KEY = "INPUT_YOUR_API_KEY"
 
 # Target Metadata
 DESTINATION_HOST = "Internal-server"
